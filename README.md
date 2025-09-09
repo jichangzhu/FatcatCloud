@@ -3,6 +3,7 @@
 
 ## 肥猫云机场怎么样？
 
+肥猫云机场，采用Shadowsocks协议，全中转大带宽，全部节点原生IP，支持ChatGPT，IEPL专线传输，全部节点1倍率，不限速。
 
 ## 肥猫云机场优惠码
 
@@ -18,11 +19,13 @@
 
 ## 肥猫云机场机场测速
 
-![fatcatcloud-SpeedTest-SZDX](https://github.com/jichangzhu/FatcatCloud/assets/152512496/57c6983d-8e03-466c-be2b-fca64ae3d155)
+<img width="3952" height="5396" alt="fatcatcloud-SpeedTest-GXYD-20250905" src="https://github.com/user-attachments/assets/2d6df717-7a9e-4094-8808-b3598f4c419a" />
+
 
 ## 肥猫云机场出入口分析
 
-![fatcatcloud-Network-Topology-SZDX](https://github.com/jichangzhu/FatcatCloud/assets/152512496/1559ee0c-0133-4b8a-b52c-6cbdd0087798)
+<img width="1792" height="5570" alt="fatcatcloud-Network-Topology-GXYD-20250905" src="https://github.com/user-attachments/assets/1a18393e-c74a-4293-b6fb-72e06dbb2728" />
+
 
 ## 肥猫云机场跑路
 目前肥猫云机场没有跑路，可以放心使用。
